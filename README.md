@@ -1,2 +1,2 @@
 # Spotify-to-Local
-input a song on spotify and it will download a high quality copy of it onto your machine locally
+Gets authorization for my spotify account and will download high quality copies of the playlist I select (uses Spotify api)
