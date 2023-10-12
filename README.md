@@ -1,2 +1,23 @@
-# Spotify-to-Local
-Gets authorization for my spotify account and will download high quality copies of the playlist I select (uses Spotify)
+# Spotify To Local (python)
+
+## What it does
+Downloads high quality copy of a playlist selected from your spotify account
+
+## Link
+ Intended for local use
+
+## Technologies 
+Python 
+
+
+## Introduction
+Project for personal use 
+
+## Accomplishments
++ It works
+
+
+## Notes
+Need a spotify account
+
+
